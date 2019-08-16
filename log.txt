@@ -1,0 +1,177 @@
+run.sh: line 3: sudo/home/anuj/myenv/bin/python3.6: No such file or directory
+Traceback (most recent call last):
+  File "/home/anuj/myenv/app.py", line 4, in <module>
+    from flask_mysqldb import MySQL
+ModuleNotFoundError: No module named 'flask_mysqldb'
+Traceback (most recent call last):
+  File "/home/anuj/myenv/app.py", line 4, in <module>
+    from flask_mysqldb import MySQL
+ModuleNotFoundError: No module named 'flask_mysqldb'
+sudo: /python3: command not found
+sudo: /python3: command not found
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+27.59.25.33 - - [05/Aug/2019 18:14:34] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 18:15:03] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 18:24:03] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 18:33:14] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 19:38:44] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 19:53:07] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:12:03] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:12:08] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:12:42] "GET /home HTTP/1.1" 200 -
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+27.59.25.33 - - [05/Aug/2019 20:15:28] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:15:31] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:15:34] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:15:46] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:19:11] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:19:14] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:19:16] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:19:18] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:19:20] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:19:22] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:19:48] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:19:54] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:19:58] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:23:03] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:23:13] "GET /home HTTP/1.1" 200 -
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+27.59.25.33 - - [05/Aug/2019 20:24:33] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:28:23] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:28:26] "GET /home HTTP/1.1" 200 -
+bash: [root@ip-172-31-20-50: command not found
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+27.59.25.33 - - [05/Aug/2019 20:29:19] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:32:12] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:32:14] "GET /home HTTP/1.1" 200 -
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+27.59.25.33 - - [05/Aug/2019 20:32:48] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:32:51] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:32:54] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:34:34] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:34:37] "GET /home HTTP/1.1" 200 -
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+27.59.25.33 - - [05/Aug/2019 20:35:07] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:35:09] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:35:12] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:35:14] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:35:55] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:35:57] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:35:59] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:36:01] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:36:02] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 20:36:03] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 21:02:11] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 21:02:56] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 21:23:37] "GET /home HTTP/1.1" 200 -
+27.59.25.33 - - [05/Aug/2019 22:26:01] "GET /home HTTP/1.1" 200 -
+185.254.122.34 - - [05/Aug/2019 22:59:31] code 400, message Bad request syntax ('SSH-2.0-Go')
+185.254.122.34 - - [05/Aug/2019 22:59:31] "SSH-2.0-Go" HTTPStatus.BAD_REQUEST -
+209.17.96.82 - - [06/Aug/2019 04:21:43] "GET / HTTP/1.0" 404 -
+64.233.173.185 - - [06/Aug/2019 05:11:45] "GET / HTTP/1.1" 404 -
+27.59.122.66 - - [06/Aug/2019 05:11:46] "GET /favicon.ico HTTP/1.1" 404 -
+27.59.122.66 - - [06/Aug/2019 05:11:58] "GET /home HTTP/1.1" 200 -
+122.228.19.80 - - [06/Aug/2019 06:22:32] "GET / HTTP/1.1" 404 -
+223.227.21.225 - - [06/Aug/2019 08:24:14] "GET /home HTTP/1.1" 200 -
+77.67.54.60 - - [06/Aug/2019 09:56:39] "GET /home HTTP/1.1" 200 -
+4.53.111.72 - - [06/Aug/2019 10:05:56] "GET /home HTTP/1.1" 200 -
+64.233.173.183 - - [06/Aug/2019 13:37:25] "GET /favicon.ico HTTP/1.1" 404 -
+27.59.25.191 - - [06/Aug/2019 16:18:49] "GET /home HTTP/1.1" 200 -
+209.17.97.34 - - [06/Aug/2019 19:31:16] "GET / HTTP/1.0" 404 -
+196.52.43.66 - - [07/Aug/2019 11:58:29] "GET / HTTP/1.0" 404 -
+64.233.173.8 - - [07/Aug/2019 22:53:18] "GET /home HTTP/1.1" 200 -
+64.233.173.10 - - [07/Aug/2019 22:53:19] "GET /favicon.ico HTTP/1.1" 404 -
+209.17.97.106 - - [07/Aug/2019 23:04:52] "GET / HTTP/1.0" 404 -
+106.206.18.221 - - [08/Aug/2019 20:34:09] "GET /home HTTP/1.1" 200 -
+106.206.18.221 - - [08/Aug/2019 20:34:09] "GET /favicon.ico HTTP/1.1" 404 -
+106.206.18.221 - - [08/Aug/2019 20:37:21] "GET /home HTTP/1.1" 200 -
+106.206.18.221 - - [08/Aug/2019 20:37:25] "GET /home HTTP/1.1" 200 -
+106.206.18.221 - - [08/Aug/2019 20:37:35] "GET /home HTTP/1.1" 200 -
+209.17.96.106 - - [08/Aug/2019 20:37:53] "GET / HTTP/1.0" 404 -
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+106.206.18.221 - - [08/Aug/2019 20:38:45] "GET /home HTTP/1.1" 200 -
+106.206.18.221 - - [08/Aug/2019 21:46:56] "GET /home HTTP/1.1" 200 -
+106.206.18.221 - - [08/Aug/2019 21:47:02] "GET /home HTTP/1.1" 200 -
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+27.59.114.27 - - [14/Aug/2019 17:32:23] "GET /home HTTP/1.1" 200 -
+27.59.114.27 - - [14/Aug/2019 17:32:23] "GET /favicon.ico HTTP/1.1" 404 -
+[2019-08-14 17:33:17,772] ERROR in app: Exception on /home [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib64/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib64/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib64/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib64/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib64/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/anuj/myenv/app.py", line 28, in index
+    cur = mysql.connection.cursor()
+  File "/usr/local/lib/python3.6/site-packages/flask_mysqldb/__init__.py", line 94, in connection
+    ctx.mysql_db = self.connect
+  File "/usr/local/lib/python3.6/site-packages/flask_mysqldb/__init__.py", line 81, in connect
+    return MySQLdb.connect(**kwargs)
+  File "/usr/local/lib64/python3.6/site-packages/MySQLdb/__init__.py", line 84, in Connect
+    return Connection(*args, **kwargs)
+  File "/usr/local/lib64/python3.6/site-packages/MySQLdb/connections.py", line 164, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+MySQLdb._exceptions.OperationalError: (2002, "Can't connect to MySQL server on 'customer-details.c2gdkllibhae.us-east-1.rds.amazonaws.com' (110)")
+27.59.114.27 - - [14/Aug/2019 17:33:17] "POST /home HTTP/1.1" 500 -
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+172.31.28.119 - - [15/Aug/2019 22:40:51] "GET / HTTP/1.1" 404 -
+172.31.64.99 - - [15/Aug/2019 22:40:51] "GET / HTTP/1.1" 404 -
+172.31.28.119 - - [15/Aug/2019 22:41:21] "GET / HTTP/1.1" 404 -
+172.31.64.99 - - [15/Aug/2019 22:41:21] "GET / HTTP/1.1" 404 -
+172.31.28.119 - - [15/Aug/2019 22:41:51] "GET / HTTP/1.1" 404 -
+172.31.64.99 - - [15/Aug/2019 22:41:51] "GET / HTTP/1.1" 404 -
+172.31.28.119 - - [15/Aug/2019 22:42:21] "GET / HTTP/1.1" 404 -
+172.31.64.99 - - [15/Aug/2019 22:42:21] "GET / HTTP/1.1" 404 -
