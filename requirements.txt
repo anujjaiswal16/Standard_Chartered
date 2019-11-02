@@ -50,6 +50,6 @@ setools==4.2.0
 six==1.11.0
 subscription-manager==1.23.8
 syspurpose==1.23.8
-urllib3==1.23
+urllib3==1.24.2
 virtualenv==16.7.2
 Werkzeug==0.15.5
